@@ -2,9 +2,9 @@
 ## this project is a remake of my very first startup project, from the year 2000.
 
 its goals are to:
-1) inspire first timers
-2) empower trained developers
-3) maximize useability and efficiency
+- inspire first timers
+- empower trained developers
+- maximize useability and efficiency
 
 # The list of lightcli parts :-
 
@@ -24,13 +24,13 @@ basic forms builder for getting user feedback, or for publishing new content to 
 
 ## KLUMmapa content transformations
 content mapping options :-
-1) get a subset of a content structure
-2) transform one structure to another
-3) merge two structures
+- get a subset of a content structure
+- transform one structure to another
+- merge two different structures
 
 ## KLUMmada content extensions
 customize content rendering using regular expressions and rules
-for example:
+i.e.
 - search for @twitterusername and link it to the user stream
 - search for #twitterhashtag and link it to a hashtag stream
 
