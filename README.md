@@ -10,35 +10,18 @@ its goals are to:
 
 # The list of lightcli parts :-
 
-## KLUMcode
-- runtime control
+## KLUMmark ui elements
 
-## KLUMmark
-- ui elements
+## KLUMmipo content structures
 
-## KLUMmipo 
-- content structures
+## KLUMmapa content transformations
 
-## KLUMmapa 
-- content transformations
+## KLUMcode runtime behaviour
 
-## KLUMmada 
-- content references
+## KLUMmada content references
 
-## KLUMmore 
-- compound values
+## KLUMmore compound values
 
-## KLUMmima 
-- content-access rules
+## KLUMmima access rules
 
-## KLUMmuza 
-- content creation
-
-## KLUMmaga 
-- touch responses
-
-## KLUMmule 
-- batch operations
-
-## KLUMmona 
-- content transactions
+## KLUMmuza content creation
