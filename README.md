@@ -3,10 +3,9 @@
 
 its goals are to:
 1. inspire beginners
-2. offer the best ROI for customers
-3. save time and effort for everyone involved
-4. create interactive websites without programming
-5. enable designers design content-driven web components and pages
+2. save time and effort
+3. make app development easier
+
 
 # The list of lightcli parts :-
 
