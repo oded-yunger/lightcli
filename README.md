@@ -11,7 +11,9 @@ its goals are to:
 
 ## KLUMmark ui elements
 
-## KLUMmipo content structures
+## KLUMmoza content structures
+
+## KLUMmuza content creation
 
 ## KLUMmapa content transformations
 
@@ -23,4 +25,4 @@ its goals are to:
 
 ## KLUMmima access rules
 
-## KLUMmuza content creation
+## KLUMmipo account services
