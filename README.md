@@ -52,3 +52,10 @@ add event handling functions to the client to customize your component behaviour
 
 ## KLUMmima access services
 define content access rules based on the active user's roles
+
+# Contact details
+twitter: @oded (https://twitter.com/Oded)
+facebook: https://www.facebook.com/Lightcli-455487195026692
+email: oded.yunger@gmail.com
+phone: 972-54-6132331
+mail: Oded Yunger, Kibutz Magen, D.N. Negev, Israel, 8546500
