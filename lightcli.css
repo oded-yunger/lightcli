@@ -1,0 +1,52 @@
+body {
+    margin: 20px 20px;
+    padding: 0 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    background-color: white;
+    color: darkslategray;
+}
+
+body.homepage {
+    background-image: url(images/lightcli-hummingbird.jpg);
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+a {color: blue; font-weight: bold;}
+a.visited {color: blue;}
+
+h1 {
+    color: #CC0000;
+    font-size: 50px;
+}
+
+h2.level {
+    color: darkblue;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+h3.feature {
+    color:darkmagenta;
+    font-size: 28px;
+}
+
+.description {
+    margin: 10px 10px;
+    font-size: 20px;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+li {
+    font-size: 20px;
+}
+
+.follow {
+    font-size: 25px;
+}
