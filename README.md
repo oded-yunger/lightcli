@@ -1,5 +1,6 @@
 # lightcli
-## this project is a remake of my very first startup project, from the year 2000.
+
+lightcli is an out-of-frame approach for rapid content-driven app development and deployment
 
 its goals are to:
 - inspire first timers
