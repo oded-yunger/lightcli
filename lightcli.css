@@ -1,7 +1,7 @@
 body {
     margin: 20px 20px;
     padding: 0 0;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Merriweather','Courier New', Courier, monospace;
     font-size: 16px;
     background-color: white;
     color: darkslategray;
@@ -22,20 +22,35 @@ h1 {
     font-size: 50px;
 }
 
+h1.page-title {
+    
+}
+
+div.page-header {
+    margin: 50px auto;
+    width: 900px;
+}
+
 h2.level {
     color: darkblue;
     text-transform: uppercase;
     font-size: 30px;
+    text-align: center;
+    margin-bottom: 0px;
 }
 
 h3.feature {
     color:darkmagenta;
     font-size: 28px;
+    text-align: center;
+    margin-bottom: 0px;
 }
 
 .description {
     margin: 10px 10px;
     font-size: 20px;
+    line-height: 36px;
+    text-align: center;
 }
 
 .title {
@@ -49,4 +64,9 @@ li {
 
 .follow {
     font-size: 25px;
+    text-align: center;
+}
+
+.footer {
+    height: 300px;
 }
